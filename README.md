@@ -10,9 +10,10 @@ retrieval-augmented generation (RAG) prompt.
 
 | Team member | Student ID |
 |---|---|
-| [Member 1 full name] | [Member 1 student ID] |
-| [Member 2 full name] | [Member 2 student ID] |
-| [Member 3 full name] | [Member 3 student ID] |
+| Ubaid Ullah | 9110715 |
+| Sukhchain | 9111541 |
+| Ved Vishal Patel | 9111628 |
+| Koushik Balne | 9087547 |
 
 Repository: https://github.com/UbaidUllah777/Lab---IR-Inverted-Matrix.git
 
