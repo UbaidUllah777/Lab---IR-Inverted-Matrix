@@ -32,3 +32,11 @@ htmlcov/
 .DS_Store
 Thumbs.db
 *.swp
+AGENTS.md
+
+# Workshop caches and local credentials
+.ipynb_checkpoints/
+.nltk_data/
+*.tmp
+credentials.json
+secrets.json
